@@ -61,7 +61,7 @@ const DefaultTabBar = React.createClass({
       position: 'absolute',
       width: containerWidth / numberOfTabs,
       height: 4,
-      backgroundColor: 'navy',
+      backgroundColor: '#EAEAEA',
       bottom: 0,
     };
 
